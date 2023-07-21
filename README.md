@@ -1,2 +1,2 @@
 # Aplikacja-do-notatek
-Aplikacja do tworzenia notatek z hasłem i powiadomieniam
+Aplikacja do tworzenia notatek z hasłem i powiadomieniami
