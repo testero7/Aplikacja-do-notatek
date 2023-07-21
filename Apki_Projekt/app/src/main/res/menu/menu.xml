@@ -1,0 +1,20 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.apki_projekt.ListaNotatekActivity" >
+
+    <item
+        android:id="@+id/add_notatka"
+        android:icon="@drawable/ic_menu_add"
+        android:orderInCategory="100"
+        android:title="Dodaj notatke"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/add_noti"
+        android:icon="@drawable/ic_noti"
+        android:orderInCategory="100"
+        android:title="Dodaj powiadomienie"
+        app:showAsAction="always"/>
+
+</menu>
